@@ -1,2 +1,2 @@
-# InstagramToCameraRoll
-app that converts instagram posts to saveable cells
+# AerEffect
+App for fitness data
